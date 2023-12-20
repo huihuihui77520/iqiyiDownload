@@ -26,4 +26,11 @@ k_ft2=8191&
 ### 加密值
 vf=ebc5384474db97adaf501c2d93f516d8  ### 加密值
 
-# 3.除加密值以外的其他值都可以通过请求页面和
+# 3.除加密值以外的其他值都可以通过请求页面和登录的cookie可以获取到。
+
+# 4. VF加密参数的获取。
+## 4.1 通过F12的 search vf= 可以查询到vf 生成的所在文件，
+
+![image](https://github.com/huihuihui77520/iqiyiDownload/assets/145181908/706b4b29-c36f-4ed5-a98e-6510d2b65226)
+
+
