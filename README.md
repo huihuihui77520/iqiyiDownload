@@ -33,4 +33,6 @@ vf=ebc5384474db97adaf501c2d93f516d8  ### 加密值
 
 ![image](https://github.com/huihuihui77520/iqiyiDownload/assets/145181908/706b4b29-c36f-4ed5-a98e-6510d2b65226)
 
+在该位置，打断点，追踪参数 i 的来源。获取i参数的组装方式，谁知道的怎么操作指导我一下。。。。
+
 
